@@ -1,11 +1,13 @@
 fileFormatVersion: 2
 guid: ebba515772f49154291b7ac7602a6d63
-timeCreated: 1466833243
+timeCreated: 1487558483
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: eyes_0
     21300002: eyes_1
+    21300004: eyes_2
+    21300006: eyes_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -48,56 +50,64 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: eyes_0
+    - serializedVersion: 2
+      name: eyes_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 42
+        y: 292
         width: 189
-        height: 184
+        height: 185
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 81.5, y: 73}
-        - {x: 29.5, y: 92}
-        - {x: -43.5, y: 92}
-        - {x: -83.5, y: 58}
-        - {x: -91.5, y: 36}
-        - {x: -94.5, y: 21}
-        - {x: -94.5, y: -50}
-        - {x: -65.5, y: -79}
-        - {x: -49.5, y: -92}
-        - {x: 46.5, y: -92}
-        - {x: 81.5, y: -87}
-        - {x: 91.5, y: -71}
-        - {x: 94.5, y: -44}
-        - {x: 94.5, y: 48}
-    - name: eyes_1
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyes_1
       rect:
         serializedVersion: 2
-        x: 235
-        y: 7
+        x: 277
+        y: 300
         width: 203
         height: 177
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 37.5, y: 88.5}
-        - {x: -14.5, y: 88.5}
-        - {x: -69.5, y: 78.5}
-        - {x: -101.5, y: 36.5}
-        - {x: -101.5, y: -35.5}
-        - {x: -50.5, y: -88.5}
-        - {x: 61.5, y: -88.5}
-        - {x: 101.5, y: -68.5}
-        - {x: 101.5, y: 79.5}
-        - {x: 72.5, y: 77.5}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyes_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 54
+        width: 189
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyes_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 56
+        width: 203
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
